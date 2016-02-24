@@ -1,0 +1,20 @@
+{
+	"attributes": 
+	{
+		"deployment_dir": "/user/cloudera/oozie/workspaces/_cloudera_-oozie-1-1420712241.4",
+		"description": "MapReduce for Dictionaries"
+	},
+
+	"nodes": 
+	{
+		"ueb": 
+		{
+			"attributes": 
+			{
+				"jar_path": "ueb6.jar"
+			}
+		},
+
+		"version": "0.0.1"
+	}
+}
